@@ -93,15 +93,15 @@ if (initCheck()) {
     window.cnblogsConfigDefault = {
         GhUserName: 'qiangc-eb',
         GhRepositories: 'Cnblogs-Theme-SimpleMemory',
-        GhVersions: 'v0.0.7',
+        GhVersions: 'v0.0.1',
         CnVersions: "",
         blogUser: "",
         blogAvatar: "",
         blogStartDate: "2020-09-17",
         menuCustomList: {},
         menuNavList: [],
-        menuUserInfoBgImg: 'https://cdn.jsdelivr.net/gh/qiangc-eb/Cnblogs-Theme-SimpleMemory@master/img/nothome_top_bg.jpg',
-        webpageTitleOnblur: "(oﾟvﾟ)ノ Hi",
+        menuUserInfoBgImg: 'https://cdn.jsdelivr.net/gh/qiangc-eb/Cnblogs-Theme-SimpleMemory@master/webp/me_top_bg.webp',
+        webpageTitleOnblur: "(ﾟvﾟ)ノ Hi",
         webpageTitleOnblurTimeOut: 500,
         webpageTitleFocus: "(*´∇｀*) 欢迎回来！",
         webpageTitleFocusTimeOut: 1000,
@@ -165,10 +165,10 @@ if (initCheck()) {
             colorSaturation: "60%",
             colorBrightness: "50%",
             colorAlpha: 0.5,
-            colorCycleSpeed: 5,
+            colorCycleSpeed: 6,
             verticalPosition: "random",
             horizontalSpeed: 200,
-            ribbonCount: 3,
+            ribbonCount: 4,
             strokeSize: 0,
             parallaxAmount: -0.2,
             animateSections: true
@@ -217,7 +217,7 @@ if (initCheck()) {
             enable: true,
             auto: {
                 enable: false,
-                dayHour: 5,
+                dayHour: 6,
                 nightHour: 19
             }
         },
