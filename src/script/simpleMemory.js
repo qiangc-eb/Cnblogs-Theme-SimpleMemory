@@ -174,8 +174,8 @@ if (initCheck()) {
             animateSections: true
         },
         homeTopImg: [
-            "https://cdn.jsdelivr.net/gh/qiangc-eb/Cnblogs-Theme-SimpleMemory@master/img/webp/home_top_bg_1.jpg",
-            "https://cdn.jsdelivr.net/gh/qiangc-eb/Cnblogs-Theme-SimpleMemory@master/img/webp/home_top_bg_2.jpg"
+            "https://cdn.jsdelivr.net/gh/qiangc-eb/Cnblogs-Theme-SimpleMemory@master/img/webp/home_top_bg_1.webp",
+            "https://cdn.jsdelivr.net/gh/qiangc-eb/Cnblogs-Theme-SimpleMemory@master/img/webp/home_top_bg_2.webp"
         ],
         homeBannerText: "",
         homeBannerTextType: "one",
