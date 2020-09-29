@@ -14,10 +14,6 @@
     background:#807dd4;
     color: #FFF
 }
-::-webkit-selection{
-    background:#807dd4;
-    color: #FFF
-}
 
 ::-moz-selection {
     background:#807dd4;
@@ -859,7 +855,6 @@ p.article-info-text > .postMeta i {
     border-bottom-right-radius: 5px;
     background: #fff;
     position: relative;
-}
 }
 
 .feedbackListSubtitle-louzhu {
@@ -3134,8 +3129,7 @@ span.cnblogs_code {
     line-height: 22px;
     color: #fff;
     width: fit-content;
-    width: -webkit-fit-content;
-    width: -moz-fit-content
+    width: -moz-fit-content;
 }
 
 .article-tag-class-color {

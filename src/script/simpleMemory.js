@@ -177,12 +177,12 @@ if (initCheck()) {
             "https://cdn.jsdelivr.net/gh/qiangc-eb/Cnblogs-Theme-SimpleMemory@master/img/home_top_bg.jpg"
         ],
         homeBannerText: "",
-        homeBannerTextType: "jinrishici",
+        homeBannerTextType: "one",
         essayTopImg: [
             "https://cdn.jsdelivr.net/gh/qiangc-eb/Cnblogs-Theme-SimpleMemory@master/img/webp/nothome_top_bg.webp"
         ],
-        essayCodeHighlightingType: 'cnblogs',
-        essayCodeHighlighting: '',
+        essayCodeHighlightingType: 'prettify',
+        essayCodeHighlighting: 'obsidian',
         essayCodeLanguages: [],
         essayCode: {
             fontFamily: "'Ubuntu Mono',monospace",
@@ -207,7 +207,7 @@ if (initCheck()) {
             left: "",
             right: "",
         },
-        footerStyle: 2,
+        footerStyle: 1,
         consoleList: [],
         bookList: [],
         themeAuthor: false,
