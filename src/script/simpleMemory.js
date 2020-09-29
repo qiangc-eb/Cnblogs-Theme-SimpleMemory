@@ -93,7 +93,7 @@ if (initCheck()) {
     window.cnblogsConfigDefault = {
         GhUserName: 'qiangc-eb',
         GhRepositories: 'Cnblogs-Theme-SimpleMemory',
-        GhVersions: 'v1.3.3',
+        GhVersions: 'v0.0.6',
         CnVersions: "",
         blogUser: "",
         blogAvatar: "",
@@ -174,7 +174,8 @@ if (initCheck()) {
             animateSections: true
         },
         homeTopImg: [
-            "https://cdn.jsdelivr.net/gh/qiangc-eb/Cnblogs-Theme-SimpleMemory@master/img/home_top_bg.jpg"
+            "https://cdn.jsdelivr.net/gh/qiangc-eb/Cnblogs-Theme-SimpleMemory@master/img/webp/home_top_bg_1.jpg",
+            "https://cdn.jsdelivr.net/gh/qiangc-eb/Cnblogs-Theme-SimpleMemory@master/img/webp/home_top_bg_2.jpg"
         ],
         homeBannerText: "",
         homeBannerTextType: "one",
