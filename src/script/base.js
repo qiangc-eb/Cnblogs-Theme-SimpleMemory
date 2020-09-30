@@ -776,7 +776,7 @@ function Base() {
         if (window.cnblogsConfig.menuUserInfoBgImg) {
             $('.introduce-box').css({
                 'background': '#000 url('+window.cnblogsConfig.menuUserInfoBgImg+') center no-repeat',
-                'background-size': '100% 225px'
+                'background-size': '100%'
             });
         }
     };

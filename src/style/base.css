@@ -2330,7 +2330,7 @@ div#tbCommentBodyPreview {
     outline: 0;
     cursor: pointer;
     background: url(https://cdn.jsdelivr.net/gh/qiangc-eb/Cnblogs-Theme-SimpleMemory@master/img/webp/me_top_bg.webp) center no-repeat #000;
-    background-size: 100%
+    background-size: 100% 225px;
 }
 
 .introduce-head {
