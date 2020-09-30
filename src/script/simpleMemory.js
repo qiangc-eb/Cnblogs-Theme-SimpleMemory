@@ -100,7 +100,7 @@ if (initCheck()) {
         blogStartDate: "2020-09-17",
         menuCustomList: {},
         menuNavList: [],
-        menuUserInfoBgImg: 'https://raw.githubusercontent.com/qiangc-eb/Cnblogs-Theme-SimpleMemory/master/img/webp/me_top_bg.webp',
+        menuUserInfoBgImg: '',
         webpageTitleOnblur: "(ﾟvﾟ)ノ Hi",
         webpageTitleOnblurTimeOut: 500,
         webpageTitleFocus: "(*´∇｀*) 欢迎回来！",
