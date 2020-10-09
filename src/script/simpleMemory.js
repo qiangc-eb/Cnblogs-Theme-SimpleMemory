@@ -1,7 +1,7 @@
 /*!
  * UPDATES AND DOCS AT: https://github.com/qiangc-eb
- * https://www.cnblogs.com/qiangc-eb/
- * @author: qiangc-eb, dbnuo@foxmail.com
+ * https://www.cnblogs.com/kami-dai-shpai/
+ * @author: qiangc-eb, chuqiang@easternbay.cn
  **/
 if (initCheck()) {
 
